@@ -6,4 +6,5 @@
   <Project Path="01.AbstractClass/01.AbstractClass.vcxproj" Id="5af2b6dc-64bf-4cd5-a397-f24b60a1749c" />
   <Project Path="02.Interface/02.Interface.vcxproj" Id="a59210dc-4831-4d3b-880d-3b923b50789e" />
   <Project Path="HomeWork34/HomeWork34.vcxproj" Id="b28e81e8-c2e7-4718-90de-d0e619296043" />
+  <Project Path="HW34Solution/HW34Solution.vcxproj" Id="6d046390-7f9e-45f5-baad-444d65717c2f" />
 </Solution>
